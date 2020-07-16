@@ -1,24 +1,9 @@
-# vueclidemo
+项目介绍：
+    前后端同时docker部署
+利用技术：docker docker compose vue node nginx
 
-## Project setup
-```
-yarn install
-```
+启动命令：
+    sh start.sh
+关闭命令：
+    sh stop.sh
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
