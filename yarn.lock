@@ -820,6 +820,31 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@bit/greyby.vue-spinner.clip-loader@^1.0.3":
+  version "1.0.3"
+  resolved "https://node.bit.dev/greyby.vue-spinner.clip-loader/-/greyby.vue-spinner.clip-loader-1.0.3.tgz#5d75e2fe3a82778fb705830a632e083e746b51af"
+  integrity sha1-XXXi/jqCd4+3BYMKYy4IPnRrUa8=
+
+"@bit/hbs.vue.carousel-wide@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/hbs.vue.carousel-wide/-/hbs.vue.carousel-wide-0.0.1.tgz#d21a764ca5bd278794f8f51d65635d98dcc799d7"
+  integrity sha1-0hp2TKW9J4eU+PUdZWNdmNzHmdc=
+  dependencies:
+    slick-carousel "^1.8.1"
+    vue-slick "^1.1.15"
+
+"@bit/myliang.fish-ui.styles.base@1.1.32":
+  version "1.1.32"
+  resolved "https://node.bit.dev/myliang.fish-ui.styles.base/-/myliang.fish-ui.styles.base-1.1.32.tgz#d3ab35b1b8f3c4096ce78770cc86c99b2e8654a9"
+  integrity sha1-06s1sbjzxAls54dwzIbJmy6GVKk=
+
+"@bit/myliang.fish-ui.styles.date-picker@^1.1.32":
+  version "1.1.32"
+  resolved "https://node.bit.dev/myliang.fish-ui.styles.date-picker/-/myliang.fish-ui.styles.date-picker-1.1.32.tgz#9e2c4e1fbc8fa0c24e400e9c6f945df347ca196d"
+  integrity sha1-nixOH7yPoMJOQA6cb5Rd80fKGW0=
+  dependencies:
+    "@bit/myliang.fish-ui.styles.base" "1.1.32"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.npm.taobao.org/@hapi/address/download/@hapi/address-2.1.4.tgz?cache=0&sync_timestamp=1593993745797&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Faddress%2Fdownload%2F%40hapi%2Faddress-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -4748,6 +4773,11 @@ jest-worker@^25.4.0:
     merge-stream "^2.0.0"
     supports-color "^7.0.0"
 
+jquery@^3.5.1:
+  version "3.5.1"
+  resolved "https://registry.npmjs.org/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5"
+  integrity sha512-XwIBPqcMn57FxfT+Go5pzySnm4KWkT1Tv7gjrpT1srtf8Weynl6R273VJ5GjkRb51IzMp5nbaPjJXMWeju2MKg==
+
 js-message@1.0.5:
   version "1.0.5"
   resolved "https://registry.npm.taobao.org/js-message/download/js-message-1.0.5.tgz#2300d24b1af08e89dd095bc1a4c9c9cfcb892d15"
@@ -7105,6 +7135,11 @@ slice-ansi@^2.1.0:
     astral-regex "^1.0.0"
     is-fullwidth-code-point "^2.0.0"
 
+slick-carousel@^1.6.0, slick-carousel@^1.8.1:
+  version "1.8.1"
+  resolved "https://registry.npmjs.org/slick-carousel/-/slick-carousel-1.8.1.tgz#a4bfb29014887bb66ce528b90bd0cda262cc8f8d"
+  integrity sha512-XB9Ftrf2EEKfzoQXt3Nitrt/IPbT+f1fgqBdoxO3W/+JYvtEOW6EgxnWfr9GH6nmULv7Y2tPmEX3koxThVmebA==
+
 snapdragon-node@^2.0.1:
   version "2.1.1"
   resolved "https://registry.npm.taobao.org/snapdragon-node/download/snapdragon-node-2.1.1.tgz#6c175f86ff14bdb0724563e8f3c1b021a286853b"
@@ -8023,6 +8058,13 @@ vue-loader@^15.9.2:
     loader-utils "^1.1.0"
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
+
+vue-slick@^1.1.15:
+  version "1.1.15"
+  resolved "https://registry.npmjs.org/vue-slick/-/vue-slick-1.1.15.tgz#2916134531fd1f9638548f2ba1526e4f11032588"
+  integrity sha512-FnoeFMmxj+3Y1iE1HjNsB0SPpcTxJ8y2FIgndwMP6WkQph3FkPQLdqz24MwH4RszCXXH8reoANV6DMIC07jEbQ==
+  dependencies:
+    slick-carousel "^1.6.0"
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
