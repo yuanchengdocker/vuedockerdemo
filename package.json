@@ -12,7 +12,7 @@
     "@bit/greyby.vue-spinner.clip-loader": "^1.0.3",
     "@bit/hbs.vue.carousel-wide": "^0.0.1",
     "@bit/myliang.fish-ui.styles.date-picker": "^1.1.32",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "jquery": "^3.5.1",
     "koa": "^2.13.0",
